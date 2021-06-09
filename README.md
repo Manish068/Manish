@@ -16,8 +16,6 @@ Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to 
 
 <br></br>
 <br></br>
-<br></br>
-<br></br>
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 
 
