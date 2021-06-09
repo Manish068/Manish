@@ -9,7 +9,7 @@ Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to 
 ## My Stats
 <p>
 <a href="https://github.com/AVS1508">
-  <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api?username=Manish068&show_icons=true&theme=radical" />
+  <img height="170em" align="left" src="https://github-readme-stats.vercel.app/api?username=Manish068&show_icons=true&theme=radical" />
   <img height="150em" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Manish068&theme=radical&layout=compact&exclude_lang=java+r" />
 </a>
 </p>
