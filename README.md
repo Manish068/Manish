@@ -22,12 +22,12 @@ Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to 
 ## &nbsp;<img align = "left" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70"> **About Me**
   
   
-- 🔭 I’m currently working on Client project,mainly building an App
-- 🌱 I’m currently learning kotlin
+- 🔭 I’m currently working on StackCanyon Technology LLP,mainly building an App
+- 🌱 I’m currently learning kotlin , Jetpack Compose
 - 👯 I’m looking to collaborate on Android projects
 - 💬 Ask me anything about Android solutions
 - 📫 How to reach me: you can reach me from the social media links below
-- ⚡ Languages: Java , kotlin
+- ⚡ Languages: Java , kotlin , Jetpack Compose
 
 ### &nbsp; &nbsp; &nbsp; &nbsp;
 
@@ -39,6 +39,14 @@ Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to 
 <a href="https://github.com/Manish068/Video-Calling-App">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Manish068&repo=Video-Calling-App" />
 </a>
+<br></br>
+<br></br>
+<a href="https://github.com/Manish068/NewsApp">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Manish068&repo=TodoApp_JetpackCompose" />
+</a>
+<a href="https://github.com/Manish068/Video-Calling-App">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Manish068&repo=WeatherForecast_Application" />
+</a>
 
 
 ### Languages and Tools: 
@@ -47,6 +55,7 @@ Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to 
 <img align="left" alt="AdobeXd" width="35px" src="https://github.com/Manish068/Manish068/blob/main/Tools/adobexd.png" />
 <img align="left" alt="Kotlin" width="35px" src="https://github.com/Manish068/Manish068/blob/main/Tools/kotlin.png" />
 <img align="left" alt="Java" width="35px" src="https://github.com/Manish068/Manish068/blob/main/Tools/java.png" />
+<img align="left" alt="Java" width="35px" src="https://github.com/Manish068/Manish068/blob/main/Tools/jetpack_compose.png" />
 <!-- <img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
